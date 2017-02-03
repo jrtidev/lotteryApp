@@ -1,0 +1,2 @@
+# lotteryApp
+Console lottery game 
